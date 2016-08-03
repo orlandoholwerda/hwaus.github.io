@@ -1,13 +1,13 @@
-@import url(http://static.tumblr.com/qyghxmb/DI5obaya4/bootstrap.css);             /*Bootstrap base CSS*/
-@import url(http://static.tumblr.com/qyghxmb/GiSobaybd/font-faces.css);         		/*font-faces.css*/
-@import url(http://static.tumblr.com/qyghxmb/OmSobaydq/font-awesome.css);         	/*font-awesome.css*/
-@import url(http://static.tumblr.com/qyghxmb/q9yobayef/magnific-popup.css);
-@import url(http://static.tumblr.com/qyghxmb/QGuobayf4/mediaelementplayer.css);
+@import url(vendors/bootstrap.css);             /*Bootstrap base CSS*/
+@import url(fonts/font-faces.css);         		/*font-faces.css*/
+@import url(vendors/font-awesome.css);         	/*font-awesome.css*/
+@import url(vendors/magnific-popup.css);
+@import url(vendors/mediaelementplayer.css);
 
-@import url(http://static.tumblr.com/qyghxmb/lkoobaygw/masterslider.css); /*Base MasterSlider style sheet*/ 
-@import url(http://static.tumblr.com/qyghxmb/CTUobayhq/style.css); /*Base MasterSlider style sheet*/ 
+@import url(../masterslider/style/masterslider.css); /*Base MasterSlider style sheet*/ 
+@import url(../masterslider/skins/default/style.css); /*Base MasterSlider style sheet*/ 
 
-@import url(http://static.tumblr.com/qyghxmb/v7Oobaylc/style1.css);          	   /*template style*/
+@import url(style.css);          	   /*template style*/
 
-/*@import url(http://static.tumblr.com/qyghxmb/RHgobayms/skin1.css);*/
-/*@import url(http://static.tumblr.com/qyghxmb/7WQobaynd/skin2.css);*/
+/*@import url(styles/skin1.css);*/
+/*@import url(styles/skin2.css);*/
