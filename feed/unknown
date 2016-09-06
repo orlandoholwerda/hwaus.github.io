@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Alpha</title>
+	<atom:link href="http://alpha-demo.krownthemes.com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://alpha-demo.krownthemes.com</link>
+	<description>An AJAX powered portfolio theme</description>
+	<lastBuildDate>Thu, 12 May 2016 08:42:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.5.3</generator>
+
+<image>
+	<url>http://alpha-demo.krownthemes.com/wp-content/uploads/2015/11/better-ico.png</url>
+	<title>Alpha</title>
+	<link>http://alpha-demo.krownthemes.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>This Is The First Awesome Post</title>
+		<link>http://alpha-demo.krownthemes.com/news/this-is-the-first-awesome-post/</link>
+		<comments>http://alpha-demo.krownthemes.com/news/this-is-the-first-awesome-post/#comments</comments>
+		<pubDate>Wed, 24 Sep 2014 07:48:48 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[News]]></category>
+
+		<guid isPermaLink="false">http://demo.krownthemes.com/koncept/?p=136</guid>
+		<description><![CDATA[One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. &#8220;What&#8217;s happened to me?&#8221; he thought. It wasn&#8217;t a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls.</p>
+<p>A collection of textile samples lay spread out on the table &#8211; Samsa was a travelling salesman &#8211; and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame. It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather.</p>
+<div id="attachment_114" style="width: 1306px" class="wp-caption alignnone"><a href="http://krownthemes.com/wp-content/uploads/sites/2/2014/09/Untitled-21.jpg"><img class="wp-image-114 size-full" src="http://krownthemes.com/wp-content/uploads/sites/2/2014/09/Untitled-21.jpg" alt="" width="1296" height="633" /></a><p class="wp-caption-text">Photo by Unsplash</p></div>
+<p>&nbsp;</p>
+<h3>Introduction</h3>
+<p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. &#8220;What&#8217;s happened to me?&#8221; he thought. It wasn&#8217;t a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls.</p>
+<p>A collection of textile samples lay spread out on the table &#8211; Samsa was a travelling salesman &#8211; and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame. It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather.</p>
+<h3>The Plot</h3>
+<p>A collection of textile samples lay spread out on the table &#8211; Samsa was a travelling salesman &#8211; and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame. It showed a lady fitted out with a fur hat and fur boa who sat upright.</p>
+<blockquote><p>A collection of textile samples lay spread out on the table &#8211; Samsa was a travelling salesman and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.<span class="cite">By Some Thinker</span></p></blockquote>
+<p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. &#8220;What&#8217;s happened to me?&#8221; he thought. It wasn&#8217;t a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://alpha-demo.krownthemes.com/news/this-is-the-first-awesome-post/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>And the second one</title>
+		<link>http://alpha-demo.krownthemes.com/small-talk/this-is-the-first-awesome-post-3/</link>
+		<comments>http://alpha-demo.krownthemes.com/small-talk/this-is-the-first-awesome-post-3/#respond</comments>
+		<pubDate>Sat, 30 Aug 2014 07:18:03 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Small talk]]></category>
+
+		<guid isPermaLink="false">http://demo.krownthemes.com/koncept/?p=190</guid>
+		<description><![CDATA[A collection of textile samples lay spread out on the table &#8211; Samsa was a travelling salesman &#8211; and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame. It showed a lady fitted out with a fur hat and fur boa [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>A collection of textile samples lay spread out on the table &#8211; Samsa was a travelling salesman &#8211; and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame. It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather.</p>
+<p><img class="alignleft wp-image-185 size-full" src="http://krownthemes.com/wp-content/uploads/sites/2/2014/09/Untitled-22.jpg" alt="Untitled-2" width="230" height="151" /></p>
+<p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment.</p>
+<p>&nbsp;</p>
+<h3>Introduction</h3>
+<p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. &#8220;What&#8217;s happened to me?&#8221; he thought. It wasn&#8217;t a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://alpha-demo.krownthemes.com/small-talk/this-is-the-first-awesome-post-3/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cool video post</title>
+		<link>http://alpha-demo.krownthemes.com/tips-tricks/this-is-the-first-awesome-post-4/</link>
+		<comments>http://alpha-demo.krownthemes.com/tips-tricks/this-is-the-first-awesome-post-4/#respond</comments>
+		<pubDate>Wed, 30 Jul 2014 07:20:41 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Tips & Tricks]]></category>
+
+		<guid isPermaLink="false">http://demo.krownthemes.com/koncept/?p=189</guid>
+		<description><![CDATA[One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. &#8220;What&#8217;s happened to me?&#8221; he thought. It wasn&#8217;t a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls.</p>
+<p><iframe src="https://player.vimeo.com/video/130578233?color=b99d61&amp;title=0&amp;byline=0&amp;portrait=0" width="500" height="281" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>A collection of textile samples lay spread out on the table &#8211; Samsa was a travelling salesman &#8211; and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame. It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather.</p>
+<blockquote><p>A collection of textile samples lay spread out on the table &#8211; Samsa was a travelling salesman and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.<span class="cite">By Some Thinker</span></p></blockquote>
+<p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. &#8220;What&#8217;s happened to me?&#8221; he thought. It wasn&#8217;t a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://alpha-demo.krownthemes.com/tips-tricks/this-is-the-first-awesome-post-4/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ultra Amazing One</title>
+		<link>http://alpha-demo.krownthemes.com/tips-tricks/this-is-the-first-awesome-post-5/</link>
+		<comments>http://alpha-demo.krownthemes.com/tips-tricks/this-is-the-first-awesome-post-5/#respond</comments>
+		<pubDate>Tue, 29 Jul 2014 12:20:18 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Tips & Tricks]]></category>
+
+		<guid isPermaLink="false">http://demo.krownthemes.com/koncept/?p=193</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<div class="krown-column-row clearfix " style="background-color:#f9f9f9;"><div class="wrapper">
+	<div class="krown-column-container clearfix span12"><div>
+		
+			<h3>No Fancy Content</h3>
+<p>The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. &#8220;What&#8217;s happened to me?&#8221; he thought. It wasn&#8217;t a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table &#8211; Samsa was a travelling salesman &#8211; and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame. It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather.</p>
+
+	</div></div> 
+</div></div><div class="krown-column-row clearfix " style="background-color:#f9f9f9;"><div class="wrapper">
+	<div class="krown-column-container clearfix span6"><div>
+		
+			<h4>The Plot</h4>
+<p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.</p>
+
+	</div></div> 
+
+	<div class="krown-column-container clearfix span6"><div>
+		
+			<h4>The Jungle</h4>
+<p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.</p>
+
+	</div></div> 
+</div></div><div class="krown-column-row clearfix  padding parallax-bg full-width full-width" style="background-color:#f9f9f9;background-image:url(http://alpha-demo.krownthemes.com/wp-content/uploads/2016/01/photo-1449247666642-264389f5f5b1-1.jpg);background-size:cover;background-position:center center;"><div class="wrapper">
+	<div class="krown-column-container clearfix  padding span12"><div>
+		
+			<p style="text-align: center;"><a class="krown-button large light fancybox fancybox.iframe" href="https://player.vimeo.com/video/68732853">Watch Video</a></p>
+
+	</div></div> 
+</div></div>
+]]></content:encoded>
+			<wfw:commentRss>http://alpha-demo.krownthemes.com/tips-tricks/this-is-the-first-awesome-post-5/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Just over the rainbow</title>
+		<link>http://alpha-demo.krownthemes.com/small-talk/this-is-the-first-awesome-post-6-3/</link>
+		<comments>http://alpha-demo.krownthemes.com/small-talk/this-is-the-first-awesome-post-6-3/#respond</comments>
+		<pubDate>Mon, 30 Jun 2014 12:41:47 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Small talk]]></category>
+
+		<guid isPermaLink="false">http://demo.krownthemes.com/koncept/?p=206</guid>
+		<description><![CDATA[One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. &#8220;What&#8217;s happened to me?&#8221; he thought. It wasn&#8217;t a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls.</p>
+<p>A collection of textile samples lay spread out on the table &#8211; Samsa was a travelling salesman &#8211; and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame. It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather.</p>
+<div id="attachment_114" style="width: 1306px" class="wp-caption alignnone"><a href="http://krownthemes.com/wp-content/uploads/sites/2/2014/09/Untitled-21.jpg"><img class="wp-image-114 size-full" src="http://krownthemes.com/wp-content/uploads/sites/2/2014/09/Untitled-21.jpg" alt="" width="1296" height="633" /></a><p class="wp-caption-text">Photo by Unsplash</p></div>
+<p>&nbsp;</p>
+<h3>Introduction</h3>
+<p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. &#8220;What&#8217;s happened to me?&#8221; he thought. It wasn&#8217;t a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls.</p>
+<p>A collection of textile samples lay spread out on the table &#8211; Samsa was a travelling salesman &#8211; and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame. It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather.</p>
+<h3>The Plot</h3>
+<p>A collection of textile samples lay spread out on the table &#8211; Samsa was a travelling salesman &#8211; and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame. It showed a lady fitted out with a fur hat and fur boa who sat upright.</p>
+<blockquote><p>A collection of textile samples lay spread out on the table &#8211; Samsa was a travelling salesman and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.<span class="cite">By Some Thinker</span></p></blockquote>
+<p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. &#8220;What&#8217;s happened to me?&#8221; he thought. It wasn&#8217;t a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://alpha-demo.krownthemes.com/small-talk/this-is-the-first-awesome-post-6-3/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>From top to bottom</title>
+		<link>http://alpha-demo.krownthemes.com/news/this-is-the-first-awesome-post-6-2/</link>
+		<comments>http://alpha-demo.krownthemes.com/news/this-is-the-first-awesome-post-6-2/#respond</comments>
+		<pubDate>Fri, 20 Jun 2014 12:41:40 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[News]]></category>
+
+		<guid isPermaLink="false">http://demo.krownthemes.com/koncept/?p=205</guid>
+		<description><![CDATA[Using, auction cigar distinctly brilliant estate in acumen townhome, pedigree impresario manor wishlist rich. Marquis five-star, dignified educated fine cocktail vacation regal metropolitan repertoire impressive imported treasure brokerage using. Benefactor, monogram blissfull politically wishlist luxury wishlist. https://0.s3.envato.com/h264-video-previews/58fd5686-1f87-11e3-9a07-005056926838/381175.mp4 Joe Harrison, from The Noun Project]]></description>
+				<content:encoded><![CDATA[<p>Using, auction cigar distinctly brilliant estate in acumen townhome, pedigree impresario manor wishlist rich. Marquis five-star, dignified educated fine cocktail vacation regal metropolitan repertoire impressive imported treasure brokerage using.</p>
+<p><strong>Benefactor, monogram blissfull politically wishlist luxury wishlist.</strong></p>
+<div style="width: 640px; " class="wp-video"><video class="wp-video-shortcode" id="video-205-2" width='100%' height='100%' style='width:100%;height:100%' preload="metadata" controls="controls"><source type="video/mp4" src="https://0.s3.envato.com/h264-video-previews/58fd5686-1f87-11e3-9a07-005056926838/381175.mp4?_=2" /><a href="https://0.s3.envato.com/h264-video-previews/58fd5686-1f87-11e3-9a07-005056926838/381175.mp4">https://0.s3.envato.com/h264-video-previews/58fd5686-1f87-11e3-9a07-005056926838/381175.mp4</a></video></div>
+<p><em>Joe Harrison,</em><br />
+<em> from The Noun Project</em></p>
+]]></content:encoded>
+			<wfw:commentRss>http://alpha-demo.krownthemes.com/news/this-is-the-first-awesome-post-6-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://0.s3.envato.com/h264-video-previews/58fd5686-1f87-11e3-9a07-005056926838/381175.mp4" length="7749956" type="video/mp4" />
+<enclosure url="https://0.s3.envato.com/h264-video-previews/58fd5686-1f87-11e3-9a07-005056926838/381175.mp4" length="7749956" type="video/mp4" />
+		</item>
+		<item>
+		<title>Duplicating things</title>
+		<link>http://alpha-demo.krownthemes.com/news/this-is-the-first-awesome-post-4-2/</link>
+		<comments>http://alpha-demo.krownthemes.com/news/this-is-the-first-awesome-post-4-2/#respond</comments>
+		<pubDate>Fri, 30 May 2014 12:41:38 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Tips & Tricks]]></category>
+
+		<guid isPermaLink="false">http://demo.krownthemes.com/koncept/?p=204</guid>
+		<description><![CDATA[One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. &#8220;What&#8217;s happened to me?&#8221; he thought. It wasn&#8217;t a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls.</p>
+<p>A collection of textile samples lay spread out on the table &#8211; Samsa was a travelling salesman &#8211; and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame. It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather.</p>
+<blockquote><p>A collection of textile samples lay spread out on the table &#8211; Samsa was a travelling salesman and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.<span class="cite">By Some Thinker</span></p></blockquote>
+<p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. &#8220;What&#8217;s happened to me?&#8221; he thought. It wasn&#8217;t a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://alpha-demo.krownthemes.com/news/this-is-the-first-awesome-post-4-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
